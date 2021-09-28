@@ -1,7 +1,14 @@
+// @font-face {
+// 	font-family: 'Playfair Display';
+// 	font-style: normal;
+// 	font-weight: 400;
+// 	font-display: swap;
+// 	src: local(''), url('../fonts/playfair-display.woff2') format('woff2');
+// }
 @font-face {
-	font-family: 'Playfair Display';
+	font-family: 'Nanum Gothic', sans-serif;
 	font-style: normal;
-	font-weight: 400;
+	//font-weight: 400;
 	font-display: swap;
-	src: local(''), url('../fonts/playfair-display.woff2') format('woff2');
+	src: local(''), url('../fonts/NanumGothic-Regular.ttf') format('ttf');
 }

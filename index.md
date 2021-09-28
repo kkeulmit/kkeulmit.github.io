@@ -9,3 +9,5 @@ show_call_box: true
 ---
 
 # kkeulmit - COMMING SOON.
+
+끌밋이 서비스를 만들고 있습니다. 페이지를 천천히 만드는 중이니 문의사항이 있으시면 언제든 이메일 주소로 문의 바랍니다.
