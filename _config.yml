@@ -8,7 +8,7 @@ logo:
   mobile_width: "32px"
   desktop: "images/logo/kkeulmitlogo.svg"
   desktop_height: "60px"
-  desktop_width: "200px"
+  desktop_width: "300px"
 
 collections:
   services:
