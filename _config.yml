@@ -1,8 +1,6 @@
-baseurl: '../'
+baseurl: '/'
 permalink: pretty
 title: 'KKEULMIT'
-
-encoding: UTF-8
 
 logo:
   mobile: "images/logo/kkeulmitlogo.svg"
@@ -14,7 +12,7 @@ logo:
 
 collections:
   services:
-    output: true
+    output: false
   team:
     output: true
 
