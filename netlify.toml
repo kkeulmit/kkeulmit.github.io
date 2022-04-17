@@ -4,6 +4,3 @@
 
 [build.environment]
   JEKYLL_ENV = "production"
-
-
-NETLIFY_GOOGLE_ANALYTICS_ID = "UA-144031089-1"
