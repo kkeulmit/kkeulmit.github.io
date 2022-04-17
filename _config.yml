@@ -1,6 +1,7 @@
 baseurl: "/"
 permalink: pretty
 title: 'KKEULMIT'
+url: '/'
 
 logo:
   mobile: "images/logo/kkeulmitlogo.svg"
