@@ -1,12 +1,12 @@
 ---
-title: "Accounting"
-date: 2018-11-18T12:33:46+10:00
+title: "Develop Hub"
+date: 2022-04-20T12:30:46+10:00
 featured: true
 weight: 1
 layout: service
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+세상의 모든 일하는 사람들이 원하는 플랫폼, (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
