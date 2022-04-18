@@ -1,12 +1,12 @@
 baseurl: "/"
 permalink: pretty
-title: 'KKEULMIT'
-url: '/'
+title: "KKEULMIT"
+url: "/"
 
 logo:
   mobile: "images/logo/kkeulmitlogo.svg"
-  mobile_height: "40px"
-  mobile_width: "120px"
+  mobile_height: "60px"
+  mobile_width: "200px"
   desktop: "images/logo/kkeulmitlogo.svg"
   desktop_height: "60px"
   desktop_width: "200px"
